@@ -6,10 +6,6 @@
 
 > Um aplicativo de portfólio pessoal, simples e elegante, desenvolvido com React Native e Expo para demonstrar minhas habilidades e projetos de desenvolvimento mobile.
 
-| Tela de Início                                     | Tela de Habilidades                                |
-| -------------------------------------------------- | ---------------------------------------------------- |
-| <img src="" alt="Tela de Início" width="250"/>      | <img src="" alt="Tela de Habilidades" width="250"/>  |
-
 
 ## 📋 Sobre o Projeto
 
